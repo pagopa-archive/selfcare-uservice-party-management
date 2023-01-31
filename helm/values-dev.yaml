@@ -1,6 +1,6 @@
 image:
   repository: selcdacr.azurecr.io/uservicepartymanagement
-  tag: 0.1.39
+  tag: 0.1.40
 
 ingress:
   annotations:
